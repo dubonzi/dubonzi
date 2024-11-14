@@ -2,7 +2,7 @@
 
 <img align="right" width="80px" src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" />
 
-I'm a Backend Software Engineer currently working with **Go** @ Mercado Libre.
+I'm a Backend Software Engineer currently working with **Go** and **Java** @  Carrefour.
 
 [Linkedin](https://www.linkedin.com/in/dubonzi/)
 
